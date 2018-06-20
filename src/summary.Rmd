@@ -3,8 +3,8 @@ title: '**Machine Learning in R**: *a Hands-on Experience*'
 author: <a href="https://www.linkedin.com/in/gabrielebonomi/" target="_blank">Gabriele Bonomi</a>, <a href="https://www.linkedin.com/in/fabio-colombo-50bbba20/" target="_blank">Fabio Colombo</a>,  <a href="https://www.linkedin.com/in/lucamammi/" target="_blank">Luca  Mammi</a>
 date: "May - June **2018**"
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
 ---
 
 ___
@@ -33,7 +33,7 @@ ___
 ### 2.2 <a href="https://goo.gl/yv2R46" target="_blank">Model Performance</a>
 ### 2.3 <a href="https://goo.gl/YkMmvr" target="_blank">Model Selection</a>
 ### 2.4 <a href="https://goo.gl/zGa4GR" target="_blank">Hyperparameter Optimization</a>
-### 2.5 <a href="https://goo.gl/acgjmc" target="_blank">*Credit Card Fraud* Dataset</a>
+### 2.5 <a href="https://goo.gl/juWX6T" target="_blank">*Credit Card Fraud* Dataset</a>
 
 
 ____
