@@ -26,7 +26,7 @@
 
 ***2.4.***  [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/gbonomib/mlTeachings/master?filepath=2_4_HyperparameterOptimization.ipynb?urlpath=tree) Hyperparameter Optimization
 
-***2.5.***  [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/gbonomib/mlTeachings/dev?filepath=2_5_CreditCardFraud.ipynb?urlpath=tree) *Credit Card Fraud* Dataset
+***2.5.***  [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/gbonomib/mlTeachings/master?filepath=2_5_CreditCardFraud.ipynb?urlpath=tree) *Credit Card Fraud* Dataset
 
 ## **Session** *3*
 
